@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">自己PRアプリ</string>
+    <string name="hint_contact_name">連絡先名</string>
+    <string name="hint_contact_number">連絡先番号</string>
+    <string name="hint_my_name">表示名</string>
+    <string name="check_box_text_include_junior">「ジュニア」を含める</string>
+    <string name="check_box_text_immediate_join">即時参加可能</string>
+    <string name="hint_available_from_date">勤務開始可能日</string>
+    <string name="button_text_preview_message">メッセージをプレビュー</string>
+    <string name="button_text_send_message">メッセージを送信</string>
+</resources>

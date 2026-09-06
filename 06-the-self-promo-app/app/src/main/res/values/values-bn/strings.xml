@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">সেলফ-প্রোমো অ্যাপ</string>
+    <string name="hint_contact_name">যোগাযোগের নাম</string>
+    <string name="hint_contact_number">যোগাযোগের নম্বর</string>
+    <string name="hint_my_name">আমার প্রদর্শন নাম</string>
+    <string name="check_box_text_include_junior">'জুনিয়র' অন্তর্ভুক্ত করুন</string>
+    <string name="check_box_text_immediate_join">তাৎক্ষণিক যোগদান</string>
+    <string name="hint_available_from_date">কোন তারিখ থেকে উপলব্ধ</string>
+    <string name="button_text_preview_message">বার্তার পূর্বরূপ দেখুন</string>
+    <string name="button_text_send_message">বার্তা পাঠান</string>
+</resources>
