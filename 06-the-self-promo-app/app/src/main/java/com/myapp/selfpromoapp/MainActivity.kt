@@ -1,6 +1,6 @@
 package com.myapp.selfpromoapp
 
-import android.R
+//import android.R
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
@@ -36,6 +36,10 @@ class MainActivity : AppCompatActivity() {
         val spinnerAdepter = ArrayAdapter<String>(this,android.R.layout.simple_spinner_dropdown_item, spinnerValues)
         binding.spinnerJobTitle.adapter = spinnerAdepter
 
+
+        Log.d(TAG+"_Lang", resources.configuration.locales[0].toString())
+        Log.d(TAG+"_STRING_TEST", getString(com.myapp.selfpromoapp.R.string.button_text_preview_message)
+        )
     }
 
     private fun onPreviewClicked() {
