@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity Lifecycle Playground</string>
+    <string name="exit_activity">EXIT ACTIVITY</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure, you want to exit?</string>
+</resources>
